@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+dist/
+
+# PyCharm - ignore user-specific files but track AI setup notes
+/.idea/*
+!/.idea/INTELLIJ_AI_SETUP.md
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
