@@ -17,30 +17,22 @@
   },
   "editor.guides.bracketPairs": true,
   "terminal.integrated.scrollback": 100000,
-
-  "chat.disableAIFeatures": true,
-  "github.copilot.editor.enableAutoCompletions": false,
-  "github.copilot.enable": {
-    "*": false
-  },
-  "vsintellicode.modify.editor.suggestSelection": "disabled",
-  "vsintellicode.features.python.deepLearning": "disabled",
-  "vsintellicode.features.typescript.deepLearning": "disabled",
-  "editor.inlineSuggest.enabled": false,
   "editor.quickSuggestions": {
     "other": true,
     "comments": false,
     "strings": false
   },
-  "tabnine.experimentalAutoImports": false,
-  "tabnine.disable_auto_update": true,
-  "Codeium.enableCodeLens": false,
-  "Codeium.enableConfig": {
+  "chat.disableAIFeatures": true,
+  "github.copilot.enable": {
     "*": false
   },
-  "aws.codeWhisperer.shareCodeWhispererContentWithAWS": false,
-  "claude-dev.enabled": false,
-  "claude-code.enabled": false,
-  "cloudcode.autoDependencies": false,
-  "generative-ai-studio.enabled": false
+  "editor.inlineSuggest.enabled": false,
+  "vsintellicode.modify.editor.suggestSelection": "disabled",
+  "codeium.enableConfig": {
+    "*": false
+  },
+  "codeium.enableCodeLens": false,
+  "amazonQ.shareContentWithAWS": false,
+  "geminicodeassist.enable": false,
+  "geminicodeassist.inlineSuggestions.enableAuto": false
 }
