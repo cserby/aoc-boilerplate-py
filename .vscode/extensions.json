@@ -10,11 +10,13 @@
     "visualstudioexptteam.vscodeintellicode",
     "tabnine.tabnine-vscode",
     "codeium.codeium",
-    "amazonwebservices.aws-toolkit-vscode",
-    "amazonwebservices.codewhisperer-for-command-line-companion",
+    "amazonwebservices.amazon-q-vscode",
     "saoudrizwan.claude-dev",
+    "rooveterinaryinc.roo-cline",
+    "kilocode.kilo-code",
     "anthropic.claude-code",
-    "googlecloudtools.cloudcode",
-    "google.generative-ai-studio"
+    "google.geminicodeassist",
+    "continue.continue",
+    "sourcegraph.cody-ai"
   ]
 }
